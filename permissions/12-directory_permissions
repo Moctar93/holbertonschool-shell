@@ -1,2 +1,2 @@
-#!/bin/ chmod
+#!/bin/bash
 chmod 751 . mkdir my_dir
