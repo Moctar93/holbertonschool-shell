@@ -1,2 +1,2 @@
 #!/bin/bash
-771
+chmod a+x $dir
